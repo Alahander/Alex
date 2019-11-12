@@ -1,0 +1,8 @@
+public class WordCloud 
+    // TODO code application logic here
+    MainFrame frame=new MainFrame();
+    frame.setTitle("Word Cloud");
+    frame.setSize(1000, 620);
+    frame.setLocation(50, 50);
+    frame.setVisible(true);
+   
